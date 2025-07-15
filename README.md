@@ -1,6 +1,6 @@
 # Hey 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Matiss%2C+a+4th+year+computer+science+student+ak+TUD+in+Irelnad.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&multiline=true&repeat=false&width=520&height=100&lines=I'm+Matiss%2C+;I+make+things+for+the+web;(mostly))](https://git.io/typing-svg)
 
 ---
 
